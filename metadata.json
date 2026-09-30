@@ -1,0 +1,8 @@
+{
+  "name": " Civic Trust",
+  "description": "Autonomous civic infrastructure monitoring copilot for GDG Cloud Pune Code for Communities hackathon",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
